@@ -1,0 +1,3 @@
+# Evitar a conversão de quebras de linha em arquivos específicos
+package.json -text
+package-lock.json -text
